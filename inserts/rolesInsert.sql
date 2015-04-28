@@ -1,0 +1,5 @@
+INSERT INTO Roles ([RoleID]) values ('Presenter')
+INSERT INTO Roles ([RoleID]) values ('Student')
+INSERT INTO Roles ([RoleID]) values ('Organizer')
+INSERT INTO Roles ([RoleID]) values ('Volunteer')
+INSERT INTO Roles ([RoleID]) values ('Sponsor')
